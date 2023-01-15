@@ -1,10 +1,10 @@
 # Mergemultiplefiles
 This repository contains a python code that will help merge data from multiple files into a single file
 Stepwise guide to use this code to merge data from multiple files into a single file.
-Note: The code is ritten usin Python software (version 3.11.1, 64-bit for Windows 10) 
+Note: The code is written using Python software (version 3.11.1, 64-bit for Windows 10) 
 1. Copy all files to be merged to a folder in a particular drive in your system.
 Note down the path of a file. Please add the filename with extension at the end of the path.
-2. Create an empty file in notepad in another folder in the same drive. This file will conatin all the mered data after executing the code.
+2. Create an empty file in notepad in another folder in the same drive. This file will contain all the merged data after executing the code.
 Note down the path of this file.
 3. Copy the code into a Notepad. 
 4. Modify the following lines in the code in notepad:
@@ -13,7 +13,7 @@ Note down the path of this file.
 
   b. Line 8 of the code, with open (“..”).., replace text within the first quotation marks with the path that is noted down in Step 2.
 
-Please Note:
+Please note:
 The locations of the folder and file in a Windows OS are specified with '\'. Please replace the '\' with '/', to prevent errors, while executing script in python.
 
 5. Copy and paste the modified code in Python terminal.
