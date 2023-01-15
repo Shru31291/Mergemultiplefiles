@@ -9,9 +9,9 @@ Note down the path of this file.
 3. Copy the code into a Notepad. 
 4. Modify the following lines in the code in notepad:
 
-a. Line 4 of the code, path =, replace text within the quotation marks  with the path that is noted down in Step 1.
+  a. Line 4 of the code, path =, replace text within the quotation marks  with the path that is noted down in Step 1.
 
-b. Line 8 of the code, with open (“..”).., replace text within the first quotation marks with the path that is noted down in Step 2.
+  b. Line 8 of the code, with open (“..”).., replace text within the first quotation marks with the path that is noted down in Step 2.
 
 Please Note:
 The locations of the folder and file in a Windows OS are specified with '\'. Please replace the '\' with '/', to prevent errors, while executing script in python.
